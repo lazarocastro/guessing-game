@@ -39,7 +39,7 @@ end
 def number_chosen(level)
   case level
   when 1
-    max = 5
+    max = 10
   when 2
     max = 60
   when 3
